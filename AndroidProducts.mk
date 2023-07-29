@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/derp_fleur.mk
+    $(LOCAL_DIR)/carbon_fleur.mk
 
 COMMON_LUNCH_CHOICES := \
-    derp_fleur-user \
-    derp_fleur-userdebug \
-    derp_fleur-eng
+    carbon_fleur-user \
+    carbon_fleur-userdebug \
+    carbon_fleur-eng
